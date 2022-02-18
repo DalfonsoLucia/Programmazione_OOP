@@ -23,6 +23,7 @@ class Libro():
 
 libro = Libro(100)
 print(libro)
-len(libro)
+
+print(len(libro))
 
 
