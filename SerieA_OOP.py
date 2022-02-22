@@ -12,3 +12,4 @@ class Roma(SerieA):
 
 squadra = Roma()
 print(isinstance(squadra, SerieA))
+
