@@ -1,2 +1,2 @@
 # Programmazione_OOP
-Progetti con la programmazione ad oggetti (OOP)
+Esercizi con la programmazione ad oggetti (OOP)
